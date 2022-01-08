@@ -1,0 +1,37 @@
+#########################################################################
+#
+#   Money-Copier
+#
+#   This program is to trade stocks automatically
+#
+#   Made by Shumin
+#
+#########################################################################
+
+Milestone
+
+1. Basic function implementation
+
+    1.1. Buying coins
+        Input:
+            - Coin name
+            - Price
+            - Number
+        Output:
+            - Time when the coins are bought
+
+    1.2. Selling coins
+        Input:
+            - Coin name
+            - Price
+            - Number
+        Output
+            - Time when the coins are bought
+
+    1.3. Check the coin price
+        Input:
+            - Coin name
+        Output:
+            - Price
+
+2. Strategies for trading
